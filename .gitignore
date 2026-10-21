@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: LicenseRef-HMS-INT-4-Clause-1.0
+# Copyright (c) 2026 HMS Industrial Networks AB
+
+# What make writes: examples/build/.
+build/

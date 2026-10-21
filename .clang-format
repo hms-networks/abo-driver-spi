@@ -1,0 +1,24 @@
+# SPDX-License-Identifier: LicenseRef-HMS-INT-4-Clause-1.0
+# Copyright (c) 2026 HMS Industrial Networks AB
+#
+# This file is part of the HMS Anybus ONE SDK and must only be used with
+# HMS products. See the LICENSE file in the root of the SDK for full
+# license terms.
+
+# The driver's formatting: Mozilla style with the changes below.
+---
+Language: Cpp
+BasedOnStyle: Mozilla
+AlignConsecutiveAssignments:
+  AcrossComments: true
+AlignConsecutiveMacros:
+  Enabled: true
+  AlignFunctionDeclarations: true
+  AcrossComments: true
+BreakAfterReturnType: Automatic
+ColumnLimit: 120
+ContinuationIndentWidth: 3
+IndentPPDirectives: None
+IndentWidth: 3
+SortIncludes:
+  Enabled: false
